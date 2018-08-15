@@ -4,6 +4,6 @@
 
 https://anoyi.com/book
 
-## A ebook searching engine weibsite
+## A ebook search engine weibsite
 
 http://search.chongbuluo.com/#
